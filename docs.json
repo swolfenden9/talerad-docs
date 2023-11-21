@@ -1,0 +1,20 @@
+[
+  {
+    "section": 1,
+    "document": 1,
+    "title": "Document 1",
+    "content": "<p>This is the content of Document 1.</p>"
+  },
+  {
+    "section": 1,
+    "document": 2,
+    "title": "Document 2",
+    "content": "<p>This is the content of Document 2.</p>"
+  },
+  {
+    "section": 2,
+    "document": 1,
+    "title": "Document 3",
+    "content": "<p>This is the content of Document 3.</p>"
+  }
+]
