@@ -1,5 +1,2 @@
-[comment] <> 3
-[comment] <> 2
-
-## Shuffles
+# 3.1 Suffles
 They are creatures.
