@@ -1,8 +1,8 @@
-# Toppings
+## Toppings
 
 - mozzerella
 - salami
 - passata
 
-# Taste
+## Taste
 - Exquisite!!!
